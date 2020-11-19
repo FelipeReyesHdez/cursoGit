@@ -1,2 +1,2 @@
 #cursoGit
-# Texto desde github
+# Texto desde github para el curso
